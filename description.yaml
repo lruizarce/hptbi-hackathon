@@ -1,7 +1,10 @@
 title: "Your Hackathon Project Title"
 version: v0.1
-language: R
+language: Python
 author:
+- name: Luis A. Ruiz Arce
+  email: lruizarc@msudenver.edu
+  github: lruizarce
 - name: Peter E. DeWitt
   email: peter.dewitt@cuanschutz.edu
   github: dewittpe
